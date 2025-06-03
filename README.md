@@ -17,15 +17,15 @@
 
 ### 🧑‍💻 Languages I Use the Most
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashintv&layout=compact&langs_count=8&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashintv&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Ashin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashintv&show_icons=true&theme=tokyonight)
+![Ashin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashintv&show_icons=true&theme=tokyonight&cache_seconds=1)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashintv&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashintv&theme=tokyonight&cache_seconds=1)
 
 ---
 

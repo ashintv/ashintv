@@ -5,3 +5,4 @@
 ## 🧑‍💻 Languages I Use Most
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashintv&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashintv&layout=compact&langs_count=8&theme=tokyonight)

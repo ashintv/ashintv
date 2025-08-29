@@ -1,4 +1,6 @@
 <h1 align="center">👋 Hi, I'm Ashin T V</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashintv&label=Profile%20views&color=0e75b6&style=flat" alt="tims-exe" /> </p>
+
 
 <p align="center">
   🚀 Passionate about Webdev, AI

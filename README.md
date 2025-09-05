@@ -78,17 +78,11 @@ I craft **full-stack applications** with a focus on **real-time communication sy
 
 ---
 
-## 🎨 Philosophy
-
-> **"Building applications that don't just work, but create meaningful connections between people."**
-
-I focus on creating solutions that are **performant**, **scalable**, and **user-centric** - especially in the realm of real-time communication where every millisecond matters.
-
 ---
 
 <div align="center">
 
-**🚀 Currently exploring advanced WebRTC implementations and system design patterns**
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ashintv&color=blueviolet&style=flat-square&label=Profile+Views)
 
